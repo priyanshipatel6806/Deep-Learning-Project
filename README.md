@@ -39,7 +39,3 @@ The neural network captured nonlinear patterns better and improved accuracy.
 - **Neural Network:** AUC = 0.978, Precision = 0.82, Recall = 0.86, F1 = 0.84  
 
 The deep learning model balanced **precision and recall**, drastically reducing false positives while catching most fraud cases.  
-
----
-
-## Repository Structure
